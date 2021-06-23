@@ -4,7 +4,7 @@ void myMom()
 
 {
 
-printf("Hi Dad\n");
+printf("Hi Mom\n");
 
 
 }
